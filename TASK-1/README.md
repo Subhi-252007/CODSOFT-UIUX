@@ -11,7 +11,3 @@ This project focuses on designing a mobile app signup flow.
 
 ## Tools Used
 - Figma
-
-## Preview
-
-![Signup Flow](screenshot.png)
